@@ -1,0 +1,142 @@
+<root>
+  <topology>
+    <nodes>
+      <node id="1">
+      <location latitude="0" longitude="0"/>
+      </node>
+      <node id="2">
+      <location latitude="0" longitude="0"/>
+      </node>
+      <node id="3">
+      <location latitude="0" longitude="0"/>
+      </node>
+      <node id="4">
+      <location latitude="0" longitude="0"/>
+      </node>
+      <node id="5">
+      <location latitude="0" longitude="0"/>
+      </node>
+      <node id="6">
+      <location latitude="0" longitude="0"/>
+      </node>
+      <node id="7">
+      <location latitude="0" longitude="0"/>
+      </node>
+      <node id="8">
+      <location latitude="0" longitude="0"/>
+      </node>
+      <node id="9">
+      <location latitude="0" longitude="0"/>
+      </node>
+      <node id="10">
+      <location latitude="0" longitude="0"/>
+      </node>
+      <node id="11">
+      <location latitude="0" longitude="0"/>
+      </node>
+      <node id="12">
+      <location latitude="0" longitude="0"/>
+      </node>
+      <node id="13">
+      <location latitude="0" longitude="0"/>
+      </node>
+      <node id="14">
+      <location latitude="0" longitude="0"/>
+      </node>
+    </nodes>
+    <links>
+      <link id="1_4">
+        <from if="0" node="1"/>
+        <to if="0" node="4"/>
+      </link>
+      <link id="1_5">
+        <from if="0" node="1"/>
+        <to if="0" node="5"/>
+      </link>
+      <link id="1_9">
+        <from if="0" node="1"/>
+        <to if="0" node="9"/>
+      </link>
+      <link id="3_1">
+        <from if="0" node="3"/>
+        <to if="0" node="1"/>
+      </link>
+      <link id="1_11">
+        <from if="0" node="1"/>
+        <to if="0" node="11"/>
+      </link>
+      <link id="4_11">
+        <from if="0" node="4"/>
+        <to if="0" node="11"/>
+      </link>
+      <link id="4_9">
+        <from if="0" node="4"/>
+        <to if="0" node="9"/>
+      </link>
+      <link id="4_5">
+        <from if="0" node="4"/>
+        <to if="0" node="5"/>
+      </link>
+      <link id="4_7">
+        <from if="0" node="4"/>
+        <to if="0" node="7"/>
+      </link>
+      <link id="4_2">
+        <from if="0" node="4"/>
+        <to if="0" node="2"/>
+      </link>
+      <link id="4_6">
+        <from if="0" node="4"/>
+        <to if="0" node="6"/>
+      </link>
+      <link id="6_5">
+        <from if="0" node="6"/>
+        <to if="0" node="5"/>
+      </link>
+      <link id="6_2">
+        <from if="0" node="6"/>
+        <to if="0" node="2"/>
+      </link>
+      <link id="2_5">
+        <from if="0" node="2"/>
+        <to if="0" node="5"/>
+      </link>
+      <link id="5_8">
+        <from if="0" node="5"/>
+        <to if="0" node="8"/>
+      </link>
+      <link id="5_7">
+        <from if="0" node="5"/>
+        <to if="0" node="7"/>
+      </link>
+      <link id="8_14">
+        <from if="0" node="8"/>
+        <to if="0" node="14"/>
+      </link>
+      <link id="8_7">
+        <from if="0" node="8"/>
+        <to if="0" node="7"/>
+      </link>
+      <link id="14_12">
+        <from if="0" node="14"/>
+        <to if="0" node="12"/>
+      </link>
+      <link id="12_13">
+        <from if="0" node="12"/>
+        <to if="0" node="13"/>
+      </link>
+      <link id="9_10">
+        <from if="0" node="9"/>
+        <to if="0" node="10"/>
+      </link>
+      <link id="7_9">
+        <from if="0" node="7"/>
+        <to if="0" node="9"/>
+      </link>
+      <link id="9_13">
+        <from if="0" node="9"/>
+        <to if="0" node="13"/>
+      </link>
+    </links>
+  </topology>
+</root>
