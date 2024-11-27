@@ -1,0 +1,13 @@
+Dear Researcher
+   Thank you for your interest in our work.
+   However, since we found that in 2024, a research group of graduate students used our open source code to participate in the China ## Network Technology Competition and won a prize, with almost no changes to our work and code, and in 2023, when we reviewed a manuscript for some journal, we found that the manuscript submitted by a graduate student from Sichuan Province also had stolen manuscripts and codes with almost no changes. Therefore, we withdrew all the codes from publication and only some of them were made available. The interested research groups could reimplement our code according to the detailed steps introduced in our paper.
+   We strongly condemn this immoral act.
+Authors.
+November, 2024
+
+
+声明
+
+由于发现24年有研究课题小组的研究生用我们开源的代码参加中国##学生网络技术比赛并获奖，几乎没有任何的内容设计和代码上的改动，我们课题组在23年为某一中文核心期刊审稿时发现四川省某高校的一个研究生的投稿稿件也是盗用了我们课题组未上网的中文稿件和代码，因此我们暂停公开所有代码，有兴趣的课题组可以根据我们论文介绍的详细步骤实现我们的代码。
+我们严厉谴责这种不道德的行为。
+2014年11月
